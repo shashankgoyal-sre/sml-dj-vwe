@@ -1,0 +1,4 @@
+target/
+.idea/
+Kafka-assignment.iml/
+test/
